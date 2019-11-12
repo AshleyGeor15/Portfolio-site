@@ -33,6 +33,14 @@ body{
 } 
 
 
+.round-image {
+  border: 1px #2e3b42 solid;
+    margin-bottom: 15px;
+    max-height: 20%;
+    min-width:20%;
+    border-radius:90%;
+}
+
 
 /*This is the navigation section, this also relies of 
 a jquery file : script.js*/
